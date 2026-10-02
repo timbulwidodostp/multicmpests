@@ -1,6 +1,8 @@
 # multicmpests
 Bivariate COM-Poisson Parameter Estimation Use multicmpests (multicmp) With (In) R Software
 
+multicmpests (multicmp) With (In) R Software
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
