@@ -1,6 +1,8 @@
 # multicmpests
 Bivariate COM-Poisson Parameter Estimation Use multicmpests (multicmp) With (In) R Software
 
+https://www.youtube.com/watch?v=hJkRhraWk5A
+
 multicmpests (multicmp) With (In) R Software
 
 Olah Data Semarang
